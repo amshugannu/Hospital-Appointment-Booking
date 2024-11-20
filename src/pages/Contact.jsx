@@ -16,7 +16,7 @@ const Contact = () => {
           <p className='text-white'>Tel: +91 6309425973 <br />Email: sumithreddy277@gmail.com</p>
           <p className='font-semibold text-lg text-white'>Health Care Services at LifeLine </p>
           <p className='text-white'>Learn more about our Hospital and its Services.</p>
-          <button className='text-white border border-black bg-green-500 px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'>Explore More</button>
+          <button className='text-white border bg-green-500 border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'>Explore More</button>
         </div>
 
       </div>
